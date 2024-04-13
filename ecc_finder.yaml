@@ -9,7 +9,7 @@ dependencies:
   - bedtools=2.30.0=h7d7f7ad_2
   - bioawk=1.0=h5bf99c6_6
   - blast=2.12.0=pl5262h3289130_0
-  - bowtie2=2.4.2=py38h1c8e9b9_1
+  - bowtie2
   - bwa=0.7.17=h5bf99c6_8
   - bzip2=1.0.8=h7f98852_4
   - c-ares=1.17.2=h7f98852_0
