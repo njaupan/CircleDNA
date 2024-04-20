@@ -4,6 +4,10 @@ channels:
   - bioconda
   - defaults
 dependencies:
+# bibliotecas adicionadas para que funcione as funções map-ont e map-sr
+  - pysam
+  - pybedtools
+# 
   - bedtools 
   - bioawk 
   - blast 
